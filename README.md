@@ -4,4 +4,4 @@ learning base about git.
 Creating a new branch is quik and simple.
 
 this is trial second time.
-
+add merge test.
